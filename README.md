@@ -1,0 +1,5 @@
+# Weblogic-Server-Online-Training
+Weblogic Server Training describes how to use and configure Oracle Weblogic server, deploy the application, create a domain and all business application development.
+Oracle Weblogic Server Enterprise edition is based on cloud platform and configuring Java Enterprise Edition to produce tools and application. It manages system level details so; here need to give more concentration on J2EE technologies enhancing the Business enter prise edition.
+    Weblogic Server Training describes how to use and configure Oracle Weblogic server, deploy the application, create a domain and all business application development. Contact us at (+1) 650-585-2312 for Oracle Weblogic Server Training to book a slot for free and get online training on Oracle Weblogic  Server.
+      At S & M consultant we are providing training on different modules on Oracle and Oracle Weblogic server to make you master on business modules that gone make your knowledge on organizational level application development in a positive way. To know more about course content go through our website.
